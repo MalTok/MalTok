@@ -17,7 +17,7 @@
 
 - ### About me
 
-<p>I am an aviation engineer ✈️, but although I've never worked as one, I always think like an engineer - how to create things or make some improvements. I believe I also have an artistic soul, which helps me a lot in this process 😊. My strictly technical background has helped me adapt to very different work environments. Now, after some major life twists and turns, I've decided to switch my career path to IT, and I think it's never too late to do what you love! I've just started, and it's very exciting to create various working applications entirely by myself. <i>Please feel free to leave some critical comments on my code, I will definitely benefit from them</i> 💪.</p>
+<p>I am an aviation engineer ✈️, but although I've never worked as one, I always think like an engineer - how to create things or make some improvements. I believe I also have an artistic soul, which helps me a lot in this process 😊. My strictly technical background has helped me adapt to very different work environments. Now, after some major life twists and turns, I've decided to switch my career path to IT, and I think it's never too late to make a change! I've just started, and it's very exciting to create various working applications entirely by myself. <i>Please feel free to leave some critical comments on my code, I will definitely benefit from them</i> 💪.</p>
 
 <p><b>Long-term goal</b>? Working on aviation or automotive apps or creating something useul for other programmers would be great! 😎</p>
 
