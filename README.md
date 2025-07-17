@@ -5,19 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maltok" alt="maltok" /></a> </p>
 
-- 🔭 I’m currently working on [Mortalis App](https://github.com/MalTok/Mortalis-App)
+- 🔭 I’m currently working on a new app - a missing people from Poland app
 
-- 🌱 I’m currently learning **JavaScript and JQuery**
+- 🌱 I’m currently learning **Docker**
+  
+- I want to better understand and learn more **JavaScript/JQuery**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/MalTok](https://github.com/MalTok)
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA / aviation / life**
 
 - 📫 How to reach me **mig01@wp.pl**
 
 - ### About me
 
-<p>I am an aviation engineer ✈️, but although I've never worked as one, I always think like an engineer - how to create things or make some improvements. I believe I also have an artistic soul, which helps me a lot in this process 😊. My strictly technical background has helped me adapt to very different work environments. Now, after some major life twists and turns, I've decided to switch my career path to IT, and I think it's never too late to make a change! I've just started, and it's very exciting to create various working applications entirely by myself. <i>Please feel free to leave some critical comments on my code, I will definitely benefit from them</i> 💪.</p>
+<p>I am an aviation engineer ✈️, but although I've never worked as one, I always think like an engineer - how to create things or make some improvements. I believe I also have an artistic soul, which helps me a lot in this process 😊. My strictly technical background has helped me adapt to very different work environments. Now, after some major life twists and turns, I've decided to switch my career path to IT. My goal is to make one day something impactful and groundbreaking for people! <i>Please feel free to leave some critical comments on my code, I will definitely benefit from them</i> 💪.</p>
 
 <p><b>Long-term goal</b>? Working on aviation or automotive apps or creating something useul for other programmers would be great! 😎</p>
 
