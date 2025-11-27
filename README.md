@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JAVA / aviation / life**
 
-- ### About me
+### About me
 
 <p>I am an aviation engineer ✈️, but although I've never worked as one, I always think like an engineer - how to create things or make some improvements. I believe I also have an artistic soul, which helps me a lot in this process 😊. My strictly technical background has helped me adapt to very different work environments. 
   
